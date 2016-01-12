@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fcbff3d_1f82d3c9",
+        "filename": "rootdir/init.modem_copy.sh",
+        "patchSetId": 6
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-01-12T22:08:03Z",
+      "side": 1,
+      "message": "look at m8, we use releasetools to do this at install-time",
+      "revId": "cb7a6ddd85c1f16e272d0717d9dd8bd283dfd3c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
